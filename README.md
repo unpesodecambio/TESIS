@@ -77,18 +77,6 @@ El análisis se estructura en cuatro etapas principales:
 
 ---
 
-## 📁 Estructura del repositorio
-├── data/
-│ ├── processed_database/ # Archivos limpios y listos para análisis
-├── notebooks/
-│ ├── 01_preprocessing.ipynb 
-├── outputs/
-│ ├── figures/ # Gráficas y mapas generados
-│ ├── tables/ # Tablas resumen y resultados
-└── README.md
-
----
-
 ## 📚 Referencias teóricas principales
 
 - Samuelson (1954) — Bienes públicos  
